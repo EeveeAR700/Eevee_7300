@@ -20,3 +20,34 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRADHAN474&layout=compact&theme=midnight-purple&hide=Css)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NOBITA018)
+
+
+
+
+
+# Some Projects
+
+<a href="https://github.com/NOBITA018/NOBITA018.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOBITA018&repo=ALSPAM&cache_seconds=86400&theme=gotham">
+</a>
+
+<a href="https://github.com/PRADHAN/OXYMUSIC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OXYGEN&repo=OXYMUSIC&cache_seconds=86400&theme=gotham">
+</a>
+
+
+<a href="https://github.com/NOBITA018/NOBITA018.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NOBITA018&repo=managerbot&cache_seconds=86400&theme=gotham">
+</a>
+
+[<img src="https://github.com/PRADHAN474/PRADHAN474/blob/master/resources/hr.gif"/>](https://github.com/PRADHAN474)
+
+<h1> <img src="https://telegra.ph/file/cfefd7f47e09bf8c87bde.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://telegra.ph/file/be434dc46537253ee214f.jpg" width="60px">](https://github.com/PRADHAN474) 
+
+
+
+<details>
+
+
